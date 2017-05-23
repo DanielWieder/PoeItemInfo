@@ -1,0 +1,6 @@
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\bin\Debug\PoeItemInfo.exe.config
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\obj\Debug\PoeItemInfo.csprojResolveAssemblyReference.cache
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\bin\Debug\PoeItemInfo.exe
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\bin\Debug\PoeItemInfo.pdb
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\obj\Debug\PoeItemInfo.exe
+c:\users\danie\documents\visual studio 2015\Projects\PoeItemInfo\PoeItemInfo\obj\Debug\PoeItemInfo.pdb
